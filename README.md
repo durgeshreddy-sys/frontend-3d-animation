@@ -2,7 +2,7 @@
 
 A reusable **Codex skill for React, Three.js, React Three Fiber and Tailwind CSS**. It provides implementation guidance, asset-inspection tools, motion validation and a runnable 3D character example.
 
-![Motion study example](assets/preview-desktop.png)
+![Motion study example](preview-desktop.png)
 
 ## What is included
 
